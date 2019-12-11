@@ -1,6 +1,8 @@
 # EagleEye
 Outdoor video surveillance analytics & facial recognition using AI
 
+Documentation:  https://drive.google.com/file/d/1N6x-pX_2wJ81o_FqNH8jYn1mSdyCrKXJ/view?usp=sharing
+
 Demonstration videos:
 
 https://www.youtube.com/watch?v=RRmhmTcqqTw
