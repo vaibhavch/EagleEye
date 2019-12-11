@@ -1,2 +1,2 @@
 # EagleEye
-private video surveillance analytics &amp; facial recognition using AI
+Outdoor video surveillance analytics & facial recognition using AI
